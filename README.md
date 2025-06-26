@@ -38,14 +38,17 @@ Examined correlation between bike count and environmental conditions
 Trained and compared several regression models including:
 
 Linear Regression
+
 Multiple Linear Regression
+
 Regression with Neural Networks
+
 Neural Networks
 
 Selected the best model based on predictive accuracy and robustness
 
 Tools & Technologies
+
 Python: Pandas, NumPy, Matplotlib, Seaborn, tensorflow, sklearn
-Modeling: Scikit-learn
-Feature Engineering: Lag features, rolling statistics, datetime parsing
-Evaluation: RMSE, MAE, R² Score
+
+
